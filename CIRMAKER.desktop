@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CIRMAKER
+Comment=PlayOnLinux
+Type=Application
+Exec=/usr/share/playonlinux/playonlinux --run "CIRMAKER" %F
+Icon=/home/john/.PlayOnLinux//icones/full_size/CIRMAKER
+Name[fr_FR]=CIRMAKER
+StartupWMClass=CIRMAKER.EXE
+Categories=
